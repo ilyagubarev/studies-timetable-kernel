@@ -1,2 +1,2 @@
-# studies-timetable-kernel
+# Timetable Kernel
 Central data service for Timetable project
